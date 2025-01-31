@@ -6,11 +6,7 @@ import Intellect from './Intellect';
 import Fight from './Fight';
 import PriceList from './PriceList';
 import './App.css';
-import './Instinct.css';
-import './Intellect.css';
-import './MainMenu.css';
-import './Fight.css';
-import './PriceList.css';
+
 
 
 function App() {
