@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/talant-app/static/css/main.a8699953.css",
+    "main.js": "/talant-app/static/js/main.4e7856d6.js",
+    "index.html": "/talant-app/index.html",
+    "main.a8699953.css.map": "/talant-app/static/css/main.a8699953.css.map",
+    "main.4e7856d6.js.map": "/talant-app/static/js/main.4e7856d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8699953.css",
+    "static/js/main.4e7856d6.js"
+  ]
+}
