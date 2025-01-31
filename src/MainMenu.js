@@ -14,7 +14,7 @@ function MainMenu() {
           </Link>
         </div>
         <div className="talent">
-          <img src="/images/intellect.jpg" alt="Интеллект" />
+          <img src="/images/inellect.jpg" alt="Интеллект" />
           <h2>Интеллект</h2>
           <Link to="/intellect">
             <button>Подробнее</button>
